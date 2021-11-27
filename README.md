@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XXX3CCC
+- 👋 Hi, I’m Weixi Cheng
 - 💞️ I’m an undergrad
 - 🌱 I’m currently learning computing science
 
