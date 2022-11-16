@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Weixi Cheng
-- 💞️ I’m an undergraduate at the University of Alberta
+- 💞️ I’m a graduate student at the University of Alberta
 - 🌱 I’m currently learning computing science
 
 
